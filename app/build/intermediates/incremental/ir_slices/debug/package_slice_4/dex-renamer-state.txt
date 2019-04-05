@@ -1,0 +1,4 @@
+#Fri Apr 05 20:18:44 NPT 2019
+base.0=/home/ujjwol/AndroidStudioProjects/TDSApp/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

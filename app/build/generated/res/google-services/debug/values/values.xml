@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://tds-app-d7e19.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">243366185843</string>
+    <string name="google_api_key" translatable="false">AIzaSyDbmqR1Icyb52hmMraRSeoOdbp_7_01N3k</string>
+    <string name="google_app_id" translatable="false">1:243366185843:android:d560cc018534d77f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDbmqR1Icyb52hmMraRSeoOdbp_7_01N3k</string>
+    <string name="google_storage_bucket" translatable="false">tds-app-d7e19.appspot.com</string>
+    <string name="project_id" translatable="false">tds-app-d7e19</string>
+</resources>
