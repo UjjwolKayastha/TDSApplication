@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "243366185843",
+    "firebase_url": "https://tds-app-d7e19.firebaseio.com",
+    "project_id": "tds-app-d7e19",
+    "storage_bucket": "tds-app-d7e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243366185843:android:d560cc018534d77f",
+        "android_client_info": {
+          "package_name": "com.example.tdsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243366185843-b9ogpcf50e97qjknf1c0k5uo1dks24l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tdsapp",
+            "certificate_hash": "e504675fc152ab5f58dc605e16700b288ffd0b14"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmqR1Icyb52hmMraRSeoOdbp_7_01N3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243366185843-46gru85kej36s071p5aakc6knvksg3qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
